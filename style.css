@@ -45,7 +45,6 @@ button:focus {
     justify-content: center;
     align-items: center;
     padding: 0;
-    border: 1px solid #ccc;
     width: 30%;
     background: linear-gradient(to bottom, rgb(3, 139, 37) 0%, rgb(9, 213, 228) 100%);
 }
